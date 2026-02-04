@@ -1,1 +1,4 @@
-# electronics-iv-characteristics
+# Electronics-IV-characteristics
+The current–voltage (I–V) characteristics of electronic components provide direct insight into their underlying physical behaviour and are a fundamental tool in experimental physics and electronics. In this project, the electrical response of semiconductor devices is analysed by studying their I–V curves under applied bias. Such measurements reveal key features such as nonlinearity, threshold behaviour, and breakdown effects, which distinguish ideal theoretical models from real physical systems.
+
+Using experimentally motivated data, the project examines and visualises I–V characteristics to identify distinct operating regimes and interpret them using basic semiconductor physics. The analysis highlights how experimental measurements deviate from ideal behaviour due to material properties and practical limitations. Through this approach, the project demonstrates how simple electrical measurements can be used to extract meaningful physical information and reinforces the importance of data analysis and interpretation in experimental physics.
